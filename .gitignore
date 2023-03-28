@@ -1,6 +1,12 @@
-.env
-.DS_Store
+client/.DS_Store
 client/node_modules
+
 server/node_modules
-node_modules
+server/.DS_Store
 server/uploads
+server/.env
+
+node_modules
+.DS_Store
+.env
+
